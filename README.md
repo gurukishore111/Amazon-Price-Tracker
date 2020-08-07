@@ -1,3 +1,3 @@
 # Amazon-Price-Tracker
  
- Used Selenium provides a playback  functional for this project
+ Used Selenium to provides a playback  functional for this project
