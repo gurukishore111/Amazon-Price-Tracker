@@ -1,9 +1,8 @@
 # Amazon-Price-Tracker
- 
- Used Selenium to provides a playback  functional for this project
- 
- Make sure you download the correct version of your chromedriver
 
+ Used Selenium provides a playback functional for this project
+ Make sure you download the correct version of your chrome driver
+ 
 
  Video DEMO :
    
